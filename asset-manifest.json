@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fullstackteam-cv/static/css/main.2cce8147.chunk.css",
+    "main.js": "/fullstackteam-cv/static/js/main.880fa3b2.chunk.js",
+    "main.js.map": "/fullstackteam-cv/static/js/main.880fa3b2.chunk.js.map",
+    "runtime~main.js": "/fullstackteam-cv/static/js/runtime~main.e0ae7e81.js",
+    "runtime~main.js.map": "/fullstackteam-cv/static/js/runtime~main.e0ae7e81.js.map",
+    "static/js/2.b41502e9.chunk.js": "/fullstackteam-cv/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/fullstackteam-cv/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/fullstackteam-cv/index.html",
+    "precache-manifest.70a3d735f911dafb0a9c9520e2d9dcbf.js": "/fullstackteam-cv/precache-manifest.70a3d735f911dafb0a9c9520e2d9dcbf.js",
+    "service-worker.js": "/fullstackteam-cv/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/fullstackteam-cv/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/fullstackteam-cv/static/media/logo.5d5d9eef.svg"
+  }
+}
