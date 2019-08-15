@@ -94,13 +94,13 @@
                 },
                 "interest": "",
                 "skills": {
-                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML, CSS\n",
-                    "frameworksPlatforms": "- ASP.NET MVC\n- ASP.NET Webform\n- WCF\n- ASP.NET Web API\n- .NET Core\n- React\n- Angular 2+\n- JQuery / Twitter Bootstrap",
+                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML5, CSS3\n",
+                    "frameworksPlatforms": "- ASP.NET MVC\n- ASP.NET Webform\n- WCF\n- ASP.NET Web API\n- ASP.NET Core\n- React\n- Angular 2+\n- JQuery / Twitter Bootstrap",
                     "database": "- Microsoft SQL\n- Basic knowledge of MongoDB\n- MySQL\n- Oracle",
                     "versionControl": "- GIT (Github & GitLab)\n- Team Foundation Server\n- SVN (TortoiseSVN)",
                     "ide": "- Visual Studio\n- Visual Code\n- Brackets",
                     "foreignLanguage": "- TOEIC 750/900 (recorded 2017)\n- IELTS 6.0 (recorded April 2016)",
-                    "knowledge": "- OOP, Design Pattern, SOLID principles\n- Agile and Scrum process\n- Software design, database design, Restful API\n- Time management, presentation and teamwork skills"
+                    "knowledge": "- Unit Testing\n- Dependency Injection\n- Clean code and code refactoring\n- OOP, Design Pattern, SOLID principles\n- Agile and Scrum process\n- Software design, database design, Restful API\n- Time management, presentation and teamwork skills"
                 }
             },
             "experiences": {

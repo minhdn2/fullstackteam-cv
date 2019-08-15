@@ -17,7 +17,7 @@ class App extends Component {
           <div className="navbar-fixed">
             <nav className="nav-wraper indigo">
               <div className="container">
-                <a href="#" className="brand-logo"><strong>Fullstack Team</strong></a>
+                <a href="#" className="brand-logo"><strong>OnlineCV</strong></a>
                 <a href="#" className="sidenav-trigger" data-target="mobile-menu">
                   <i className="material-icons">menu</i>
                 </a>
