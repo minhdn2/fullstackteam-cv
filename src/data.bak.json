@@ -5,7 +5,7 @@
             "userName": "Hung Hoang",
             "imgSrc": "https://minhdn2.github.io/img/hung.hoang.JPEG",
             "aboutMe": {
-                "summary": "⦁ Condescending, friendly\n⦁ Able to presentation and transmission problems\n⦁ Team working skills\n⦁ Able to work under great pressure\n⦁ Having analytical thinking and planning solution\n⦁ Multitasking\n⦁ Able to communicate and adapting to work environment",
+                "summary": "",
                 "objective": "",
                 "personalDetails": {
                     "fullName": "Hoang Van Hung",
@@ -18,13 +18,13 @@
                 },
                 "interest": "",
                 "skills": {
-                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML 5, CSS3, Bootstrap, Stylus, Sass, Less, Ignite UI, Kendo UI, Sitefinity\n",
+                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML, CSS\n",
                     "frameworksPlatforms": "- ASP.NET MVC - ASP.NET Webform - ASP.NET Web API\n- WCF\n- .NET Core\n- ASP.NET Core\n- Angular 2+\n- Angular JS",
-                    "database": "- Entity Framework\n- ADO.NET\n- MySQL\n- Oracle\n- Microsoft SQL Server\n- Microsoft Azure Cloud DataBase",
+                    "database": "- Entity Framework\n- ADO.NET",
                     "versionControl": "- GIT (Github & GitLab)\n- Team Foundation Server\n- SVN (TortoiseSVN)",
                     "ide": "- Visual Studio\n- Visual Code",
                     "foreignLanguage": "- Communication in English fluently",
-                    "knowledge": "- Unit Testing\n- System Design\n- Software Architecture Document (SAD)\n- Object-Oriented Programming (OOP)\n- Clean Code and Coding refactoring\n- Dependency Injection\n- SharePoint\n- CI/CD: Kubernetes - TeamCity - DataDog"
+                    "knowledge": "- Unit Testing\n- System Design\n- Software Architecture Document (SAD)\n- Object-Oriented Programming (OOP)\n- Clean Code and Coding refactoring\n- Dependency Injection\n- SharePoint"
                 }
             },
             "experiences": {
@@ -73,6 +73,154 @@
                     "id": "edu1",
                     "title": "Vietnam Maritime University",
                     "description": "- From 2009 to 2013\n- Degree: Bachelor degree of Information Technology (Degree level: Excellent). Graduated in 2013.\n- Studied Operating Systems: Windows 2000, XP and Linux\n- Studied in Bach Khoa card center\n- Win Office champion league.\n- Win Olympics informatics national and ICM/ICPC international 2012\n- Programming languages: C#, ASP.NET, javascript, jquery, css, HTML, Java, C, C++\n- Databases: MS SQL Server 2005,2008\n- System Analysis and Design, Software Project Management, Object - Oriented Programming (using C# language), Database Management System, Design and develop website, development SharePoint foundation, Lotus note\n"
+                }
+            ]
+        },
+        {
+            "id": "hop-chu",
+            "userName": "Hop Chu",
+            "imgSrc": "https://minhdn2.github.io/img/hop.chu.JPG",
+            "aboutMe": {
+                "summary": "",
+                "objective": "",
+                "personalDetails": {
+                    "fullName": "Chu Van Hop",
+                    "alias": "Hop Chu",
+                    "jobTitle": "Full Stack Developer",
+                    "maritalStatus": "Married",
+                    "email": "hopcv@hotmail.com",
+                    "skypeId": "hopcv",
+                    "mobile": "+84 349 695 881"
+                },
+                "interest": "",
+                "skills": {
+                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML, CSS\n",
+                    "frameworksPlatforms": "- ASP.NET MVC - ASP.NET Webform - ASP.NET Web API\n- WCF\n- .NET Core\n- ASP.NET Core\n- Angular 2+\n- Angular JS",
+                    "database": "- Entity Framework\n- ADO.NET\n- Azure SQL",
+                    "versionControl": "- GIT (Github & GitLab)\n- Team Foundation Server\n- SVN (TortoiseSVN)",
+                    "ide": "- Visual Studio\n- Visual Code",
+                    "foreignLanguage": "- Communication in English fluently",
+                    "knowledge": "- Unit Testing\n- System Design\n- Software Architecture Document (SAD)\n- Object-Oriented Programming (OOP)\n- Detailed Design\n- Clean Code and Coding refactoring\n- Dependency Injection\n- Azure\n- SharePoint"
+                }
+            },
+            "experiences": {
+                "careerSummary": "- Working with .NET projects for enterprise since 2013.\n- Have strong knowledge of web-based application, software design, Windows Service, WCF, Cloud-based applications\n- Familiar with Agile, Scum projects.",
+                "employmentHistory": [
+                    {
+                        "id": "emp1",
+                        "title": "Privalgo Rockit",
+                        "productLink": "",
+                        "position": "Senior .NET developer",
+                        "duration": "July 2018 - Present",
+                        "company": "Harveynash Viet Nam",
+                        "teamSize": "",
+                        "description": "Privalgo is a start-up company in FX. The company needs to build a Core Platform for their business which can be launch for trading. Our developed product include: Portal for client to book a trade; Front Office and Back Office for Privalgo staff to process trades and payments",
+                        "responsibility": "- Make the detailed designs for assigned tasks\n- Write code based on detailed designs and functional requirements\n- Perform full unit test on the assigned tasks\n- Implement unit test\n- Incident and bug fixing",
+                        "technologies": "- .NET\n- Azure\n- Dynamic 365\n- Power BI\n- Angular 6\n- Umbraco"
+                    },
+                    {
+                        "id": "emp2",
+                        "title": "Nashtech - Harveynash",
+                        "productLink": "",
+                        "position": "Senior .NET developer",
+                        "duration": "April 2018 - July 2018",
+                        "company": "Nashtech - Harveynash",
+                        "teamSize": "",
+                        "description": "Crimson, Harvey Nash Group, wish to re-style the Crimson conference website (http://crimsonconference.com) to include mobile-friendly responsiveness. New layout of this site will be the same as mock-ups defined within site https://eventmobi.com/trial-crimson/",
+                        "responsibility": "- Make the detailed designs for assigned tasks\n- Write code based on detailed designs and functional requirements\n- Perform full unit test on the assigned tasks\n- Create detail design, code, unit test, code review\n- Implement unit test\n- Incident and bug fixing\n- Priority tasks in detail, support junior Dev to cover come their issues",
+                        "technologies": "- PHP\n- WordPress\n- MySQL"
+                    },
+                    {
+                        "id": "emp3",
+                        "title": "PETMIG18",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "Jan 2018 - June 2018",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "Upgrade 50 applications from SharePoint 2007 and SharePoint 2010 to SharePoint 2013 and .net framework 2.0 to 4.0",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- C#\n- ASP.NET\n- SharePoint"
+                    },
+                    {
+                        "id": "emp4",
+                        "title": "SKILL",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "Oct 2017 - Jan 2018",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "SKILL is an online application is developed specifically for PDnT to achieve the objectives as to serve as the centralized database for training calendar, PMO staff training and capability records (Lesson Learnt, Best Practice and Publication articles) and to serve as centralized reporting tool for summary and compliance reports on staff training and capability. Across PETRONAS, Lesson Learnt and Best Practice has been managed by three separate entity previously; Namely Upstream Knowledge",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- C#\n- ASP.NET MVC\n- Angular JS"
+                    },
+                    {
+                        "id": "emp5",
+                        "title": "NYK",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "May 2017 - Oct 2018",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "Goods management and salary management for Singapore seaport",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- C#\n- ASP.NET MVC 5\n- JQuery"
+                    },
+                    {
+                        "id": "emp6",
+                        "title": "POS Online",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "Mar 2017 - May 2018",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "POS Online is a system for Malaysian users to have abilities to pay utilities bills, phone & internet bills, quite rent...The system also provide online services such as Pharmacy Home Delivery Services, Tax / e-PCB and Personalized Stamp Purchase. It will be hosted in public Internet environment.",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- C#\n- ASP.NET MVC\n- JQuery"
+                    },
+                    {
+                        "id": "emp7",
+                        "title": "Dupont",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "Dec 2016 - Mar 2017",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "The objective of this project is to develop 122 applications in Microsoft SharePoint",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- .NET\n- SharePoint Online\n- JQuery"
+                    },
+                    {
+                        "id": "emp8",
+                        "title": "Guardian Life",
+                        "productLink": "",
+                        "position": "Senior .NET developer and Team Lead",
+                        "duration": "July 2016 - Dec 2016",
+                        "company": "FPT Software",
+                        "teamSize": "",
+                        "description": "Migrate Lotus Notes applications to the Microsoft SharePoint platform",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system\n- Support Software Deployment",
+                        "technologies": "- .NET\n- SharePoint Online\n- JQuery"
+                    },
+                    {
+                        "id": "emp9",
+                        "title": "eGov",
+                        "productLink": "",
+                        "position": ".NET developer",
+                        "duration": "July 2013 - June 2016",
+                        "company": "FPT SOFTWARE",
+                        "teamSize": "",
+                        "description": "Software eGov is a solution for handling business problems clerical, word processing, file a door connecting the text with many integrated features, handy, easy to use, such as management and the handling of documents, work files, emails, conversations, seek opinions, scheduling work, send notifications, send messages to mobile…",
+                        "responsibility": "- Analyze the requirement\n- Design database and Prototype\n- Coding and unit testing\n- Development and optimization system",
+                        "technologies": "- .NET\n- ASP.NET MVC\n- WCF\n- JQuery\n- MySQL\n- SQL Server"
+                    }
+                ]
+            },
+            "education": [
+                {
+                    "id": "edu1",
+                    "title": "Hung Yen University of Technology and Education",
+                    "description": "- From 2009 to 2013"
                 }
             ]
         },
@@ -206,6 +354,92 @@
             ]
         },
         {
+            "id": "trong-nguyen",
+            "userName": "Trong Nguyen",
+            "imgSrc": "https://minhdn2.github.io/img/trong.nguyen.jpg",
+            "aboutMe": {
+                "summary": "I'm an active person but still not good at communicate with stranger at the first time we meet. It is my bad point and I'm still figure out it. Having standard process of development with SCRUM and using Git. Ability to work under pressure and independently. Reading, writing English well. Work Smart - Play Hard!",
+                "objective": "- Work in a professional, active and fairly competitive working environment and having opportunities to get promotion\n- Always improve myself and learn more new knowledge and skills while on the job\n- Improving myself to become a Full-Stack Developer.",
+                "personalDetails": {
+                    "fullName": "Nguyen Binh Trong",
+                    "alias": "Trong Nguyen",
+                    "jobTitle": "Back-End Developer",
+                    "maritalStatus": "Single",
+                    "email": "trongnguyen.c500@gmail.com",
+                    "skypeId": "wanted_the_king",
+                    "mobile": "+84 336 003 696"
+                },
+                "interest": "- Running\n- Music\n- Movie\n- Traveling\n- Money\n- Reading Developer's blog",
+                "skills": {
+                    "programmingLanguages": "- C# .NET\n- Javascript\n- HTML, CSS\n",
+                    "frameworksPlatforms": "- JQuery\n- ASP.NET",
+                    "database": "- Microsoft SQL",
+                    "versionControl": "- GIT (Github & GitLab)\n- Team Foundation Server\n- SVN (TortoiseSVN)",
+                    "ide": "- Visual Studio\n- Visual Code",
+                    "foreignLanguage": "Communication in English fluently (4/5)",
+                    "knowledge": "- Unit Test\n- Logical Thinking & Creative\n- Communication & Teamwork"
+                }
+            },
+            "experiences": {
+                "careerSummary": "",
+                "employmentHistory": [
+                    {
+                        "id": "emp1",
+                        "title": "Reed - Recruiter Platform",
+                        "productLink": "",
+                        "position": "Full-time Back-End Developer",
+                        "duration": "Sep 2018 - Present",
+                        "company": "Nash Tech - Harvey Nash",
+                        "teamSize": "22 members",
+                        "description": "Achievements and skills gained:\n- Communication & teamwork.\n- Development skill\n- Design Pattern\n- Standard Development process\n- SCRUM\n- English Communication",
+                        "responsibility": "- .NET Back-End developer",
+                        "technologies": "- ASP.NET MVC\n- REACT, Knockout JS, HTML, CSS, Twitter Bootstrap\n- Dapper, NHibernate\n- Entities Framework\n- Web APIs\n- SQL SERVER"
+                    },
+                    {
+                        "id": "emp2",
+                        "title": "Recruitment website, TPBank airline ticket, Payment gateway . . .",
+                        "productLink": "https://tuyendung.vnpay.vn/",
+                        "position": "Full-time Back-End Developer",
+                        "duration": "Dec 2017 - Aug 2018",
+                        "company": "Vietnam Payment Solution JSC. (VNPAY)",
+                        "teamSize": "",
+                        "description": "Achievements and skills gained\n- Communication & teamwork.\n- Development skill",
+                        "responsibility": "- Back-End developer",
+                        "technologies": "- SQL\n- C#\n- HTML\n- Oracle\n- Java\n- JavaScript\n- Framework 7 (open source for mobile HTML framework)"
+                    },
+                    {
+                        "id": "emp3",
+                        "title": "Vicare Corporation",
+                        "productLink": "",
+                        "position": "Full-time IT Admin",
+                        "duration": "May 2017 - Nov 2017",
+                        "company": "Vicare Corporation",
+                        "teamSize": "",
+                        "description": "Achievements and skills gained\n- First time step out university zone.\n- Observe, learn how to communicate and teamwork.\n- Improve English Communication Skill.",
+                        "responsibility": "- Control & Solve network. Build & config VoIP system base on freePbx Distro",
+                        "technologies": "- SQL\n- C#\n- HTML\n- Oracle\n- Java\n- JavaScript\n- Framework 7 (open source for mobile HTML framework)"
+                    }
+                ]
+            },
+            "education": [
+                {
+                    "id": "edu1",
+                    "title": "1. People Security Academy",
+                    "description": "- Major: Information Technology\n- GPA: 2.96/4"
+                },
+                {
+                    "id": "edu2",
+                    "title": "2. Certifications",
+                    "description": "- MOS Word Expert (IIG) 2016\n- TOEIC 605 (IIG) 2016"
+                },
+                {
+                    "id": "edu3",
+                    "title": "2. Honors & Awards",
+                    "description": " - Scholarship in 2nd semester 2015-2016\n- Scholarship in 1st semester 2016-2017\n- The second-best - Gala IT C500 2016"
+                }
+            ]
+        },
+        {
             "id": "minh-duong",
             "userName": "Minh Duong",
             "imgSrc": "https://minhdn2.github.io/img/minh.duong.JPEG",
@@ -224,8 +458,8 @@
                 "interest": "",
                 "skills": {
                     "programmingLanguages": "- C# .NET\n- Javascript\n- HTML, CSS\n",
-                    "frameworksPlatforms": "- ASP.NET MVC\n- ASP.NET Webform\n- WCF\n- ASP.NET Web API\n- .NET Core\n- React\n- Angular 2+\n- JQuery / Twitter Bootstrap",
-                    "database": "- Microsoft SQL\n- Basic knowledge of MongoDB\n- MySQL\n- Oracle",
+                    "frameworksPlatforms": "- ASP.NET MVC\n- ASP.NET Webform\n- WCF\n- ASP.NET Web API\n- React\n- JQuery / Twitter Bootstrap",
+                    "database": "- Microsoft SQL\n- Basic knowledge of MongoDB",
                     "versionControl": "- GIT (Github & GitLab)\n- Team Foundation Server\n- SVN (TortoiseSVN)",
                     "ide": "- Visual Studio\n- Visual Code\n- Brackets",
                     "foreignLanguage": "- TOEIC 750/900 (recorded 2017)\n- IELTS 6.0 (recorded April 2016)",
@@ -289,7 +523,7 @@
                 {
                     "id": "edu1",
                     "title": "1. University of Greenwich - Computer Engineering Education Programme - Honours Degree",
-                    "description": "- One of few students completed the programme on time (straight forward without any retake)\n- Degree: First Class Honours"
+                    "description": "- One of few students completed the programme on time\n- Degree: First Class Honours"
                 },
                 {
                     "id": "edu2",
