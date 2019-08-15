@@ -23,9 +23,9 @@ class App extends Component {
                 </a>
                 <ul className="right hide-on-med-and-down">
                   <li><a href="#hung-hoang">Hung Hoang</a></li>
-                  <li><a href="#hop-chu">Hop Chu</a></li>
-                  <li><a href="#duong-pham">Duong Pham</a></li>
-                  <li><a href="#trong-nguyen">Trong Nguyen</a></li>
+                  {/* <li><a href="#hop-chu">Hop Chu</a></li> */}
+                  {/* <li><a href="#duong-pham">Duong Pham</a></li> */}
+                  {/* <li><a href="#trong-nguyen">Trong Nguyen</a></li> */}
                   <li><a href="#minh-duong">Minh Duong</a></li>
                 </ul>
               </div>
@@ -33,9 +33,9 @@ class App extends Component {
           </div>
           <ul className="sidenav grey lighten-2" id="mobile-menu">
             <li><a href="#hung-hoang" className="sidenav-close">Hung Hoang</a></li>
-            <li><a href="#hop-chu" className="sidenav-close">Hop Chu</a></li>
-            <li><a href="#duong-pham" className="sidenav-close">Duong Pham</a></li>
-            <li><a href="#trong-nguyen" className="sidenav-close">Trong Nguyen</a></li>
+            {/* <li><a href="#hop-chu" className="sidenav-close">Hop Chu</a></li> */}
+            {/* <li><a href="#duong-pham" className="sidenav-close">Duong Pham</a></li> */}
+            {/* <li><a href="#trong-nguyen" className="sidenav-close">Trong Nguyen</a></li> */}
             <li><a href="#minh-duong" className="sidenav-close">Minh Duong</a></li>
           </ul>
         </header>
